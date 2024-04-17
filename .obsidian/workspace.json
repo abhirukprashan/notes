@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "41482107a68dbc96",
+        "id": "238062c686d1cbe3",
         "type": "tabs",
         "children": [
           {
-            "id": "f460cf05d1a55fa1",
+            "id": "29f0e448a6cf2ef7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "whiteborad.canvas",
+                "viewState": {
+                  "x": 192.5,
+                  "y": -230,
+                  "zoom": 0
+                }
+              }
             }
           }
         ]
@@ -60,6 +67,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "8c8c9cba01aff34e",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -81,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "whiteborad.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "whiteborad.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "whiteborad.canvas"
               }
             }
           },
@@ -140,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -157,11 +174,22 @@
       "command-palette:Open command palette": false,
       "obsidian-day-planner:Timeline": false,
       "homepage:Open homepage": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4d898a046ce01374",
+  "active": "29f0e448a6cf2ef7",
   "lastOpenFiles": [
+    "TO-DO LIST.md",
+    "whiteborad.canvas",
+    "Tasks Plugin - Review and check your Statuses 2024-04-17 12-20-40.md",
+    "Home.md",
+    "Spaces",
+    "coding/okayyy.md",
+    "//Untitled.canvas",
+    "Spaces/Spaces.md",
+    "coding/hallo.md",
+    "notes pdf/et/Automobile Pictures.pdf",
     "notes pdf/stf/Work done , Energy and Power.pdf",
     "notes pdf/stf/Waste Management.pdf",
     "notes pdf/stf/TYPES OF BRICK BONDS.pdf",
@@ -170,16 +198,10 @@
     "notes pdf/stf/Thermal Expansion & Contraction.pdf",
     "notes pdf/stf/The Effect of Flowing DC AC through Passive Devices Last edition version 1.pdf",
     "notes pdf/stf/sGr12TG  SFT.pdf",
-    "notes pdf/stf/Sft notes.pdf",
-    "notes pdf/stf/SFT Note.pdf",
-    "notes pdf/stf/SFT Mole & Molarity calculations.pdf",
     "README.md",
     "2024-04-18.md",
     "2024-04-17.md",
-    "coding/hallo.md",
     "Excalidraw/Drawing 2024-04-17 10.42.09.excalidraw.md",
-    "Untitled.canvas",
-    "Home.md",
     "Untitled 1.canvas",
     "Welcome.md"
   ]
