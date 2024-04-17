@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "67345abda9a5a3e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "41482107a68dbc96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f460cf05d1a55fa1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2f57236ad2afa59",
+    "type": "split",
+    "children": [
+      {
+        "id": "f18171688aa5fcf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d898a046ce01374",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9580480bf151132e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ab40dc982bd711a8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bb874d673b33b9ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1652a97f25f34c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e93e32604b24291",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "347f4a50116e8151",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "09dffcb32ffbcd9e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "293b14eb153a5609",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "f92bb837af54c4da",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "61953680e0cf7506",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 524.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-day-planner:Timeline": false,
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "f92bb837af54c4da",
+  "lastOpenFiles": [
+    "2024-04-17.md",
+    "2024-04-18.md",
+    "coding learning/hallo.md",
+    "Excalidraw/Drawing 2024-04-17 10.42.09.excalidraw.md",
+    "Untitled.canvas",
+    "README.md",
+    "Home.md",
+    "Untitled 1.canvas",
+    "Excalidraw",
+    "Welcome.md",
+    "coding learning"
+  ]
+}

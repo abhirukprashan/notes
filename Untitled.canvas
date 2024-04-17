@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"bf337c337b6a51cd","type":"group","x":-400,"y":-740,"width":460,"height":720,"label":"todo"},
+		{"id":"e85ec815fc7dc220","type":"group","x":120,"y":-740,"width":400,"height":720,"label":"done"},
+		{"id":"637e341d7aabe129","type":"text","text":"To do\n","x":-360,"y":-710,"width":300,"height":50,"color":"2"},
+		{"id":"3ed2528b1bc9715e","type":"text","text":"\n","x":-360,"y":-620,"width":300,"height":50,"color":"2"}
+	],
+	"edges":[]
+}
