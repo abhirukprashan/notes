@@ -8,8 +8,10 @@ sticker: lucide//file-plus
 ### Not done
 ```tasks
 not done
+short mode
 ```
 ## Done 
 ```tasks
 done
+short mode
 ```
