@@ -1,5 +1,8 @@
 {
-  "accentColor": "#8ba0bb",
-  "theme": "obsidian",
-  "cssTheme": ""
+  "accentColor": "#000000",
+  "theme": "moonstone",
+  "cssTheme": "Things",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font"
 }
