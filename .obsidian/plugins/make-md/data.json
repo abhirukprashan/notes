@@ -37,11 +37,12 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "//Spaces",
     "//Spaces/coding",
     "//Spaces/coding",
-    "//Spaces",
-    "/"
+    "/",
+    "//Dashboard a6d07e13d0b44b05be5e8db3a1aedfb8/Dashboard a6d07e13d0b44b05be5e8db3a1aedfb8/summery 65e9d328231e4340ab7a4dadc705dd6a",
+    "//Dashboard a6d07e13d0b44b05be5e8db3a1aedfb8/Dashboard a6d07e13d0b44b05be5e8db3a1aedfb8/summery 65e9d328231e4340ab7a4dadc705dd6a/Dashboard a6d07e13d0b44b05be5e8db3a1aedfb8/summery 65e9d328231e4340ab7a4dadc705dd6a/ICT ad7630efd7f346d3aa9d10246c6d91c5",
+    "//Dashboard a6d07e13d0b44b05be5e8db3a1aedfb8/Dashboard a6d07e13d0b44b05be5e8db3a1aedfb8/summery 65e9d328231e4340ab7a4dadc705dd6a/Dashboard a6d07e13d0b44b05be5e8db3a1aedfb8/summery 65e9d328231e4340ab7a4dadc705dd6a/ICT ad7630efd7f346d3aa9d10246c6d91c5"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -57,7 +58,7 @@
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
-  "inlineContextExpanded": true,
+  "inlineContextExpanded": false,
   "inlineContextSectionsExpanded": true,
   "dataviewInlineContext": false,
   "inlineContextNameLayout": "vertical",

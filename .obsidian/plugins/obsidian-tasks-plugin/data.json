@@ -1,18 +1,18 @@
 {
   "globalQuery": "",
   "globalFilter": "",
-  "removeGlobalFilter": true,
+  "removeGlobalFilter": false,
   "taskFormat": "tasksPluginEmoji",
-  "setCreatedDate": false,
-  "setDoneDate": false,
-  "setCancelledDate": false,
+  "setCreatedDate": true,
+  "setDoneDate": true,
+  "setCancelledDate": true,
   "autoSuggestInEditor": true,
   "autoSuggestMinMatch": 0,
   "autoSuggestMaxItems": 6,
   "provideAccessKeys": false,
-  "useFilenameAsScheduledDate": false,
+  "useFilenameAsScheduledDate": true,
   "filenameAsDateFolders": [],
-  "recurrenceOnNextLine": false,
+  "recurrenceOnNextLine": true,
   "statusSettings": {
     "coreStatuses": [
       {

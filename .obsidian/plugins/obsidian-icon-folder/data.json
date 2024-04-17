@@ -4,8 +4,12 @@
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
     "emojiStyle": "native",
-    "iconColor": null,
-    "recentlyUsedIcons": [],
+    "iconColor": "#ffffff",
+    "recentlyUsedIcons": [
+      "🌎",
+      "🏂",
+      "✔"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -24,5 +28,9 @@
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "debugMode": false
-  }
+  },
+  "coding": "✔",
+  "TO-DO LIST.md": "✔",
+  "whiteborad.canvas": "🏂",
+  "Home.md": "🌎"
 }
