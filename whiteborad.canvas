@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"bd1ee2ce269fc1e7","type":"text","text":"# tasks done\n\n```tasks\ndone\n```","x":220,"y":-460,"width":265,"height":383,"color":"5"},
+		{"id":"e5162924f56925f5","type":"text","text":"# Tasks not done\n```tasks\nnot done\n```\n\n","x":-100,"y":-460,"width":280,"height":460,"color":"1"}
+	],
+	"edges":[]
+}

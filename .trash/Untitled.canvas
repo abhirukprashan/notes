@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"dfb2b5d6f6d1d65c","x":-460,"y":-240,"width":250,"height":446,"type":"text","text":"# tasks\n- [ ] make the todo list\n"}
+	],
+	"edges":[]
+}
