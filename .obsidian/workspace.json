@@ -118,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.canvas"
+              }
             }
           },
           {
@@ -158,18 +160,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f92bb837af54c4da",
+  "active": "4d898a046ce01374",
   "lastOpenFiles": [
-    "2024-04-17.md",
+    "notes pdf/stf/Work done , Energy and Power.pdf",
+    "notes pdf/stf/Waste Management.pdf",
+    "notes pdf/stf/TYPES OF BRICK BONDS.pdf",
+    "notes pdf/stf/TRIGNOMETRY and IT'S APPLICATIONS.pdf",
+    "notes pdf/stf/THERMOCHEMISTRY.pdf",
+    "notes pdf/stf/Thermal Expansion & Contraction.pdf",
+    "notes pdf/stf/The Effect of Flowing DC AC through Passive Devices Last edition version 1.pdf",
+    "notes pdf/stf/sGr12TG  SFT.pdf",
+    "notes pdf/stf/Sft notes.pdf",
+    "notes pdf/stf/SFT Note.pdf",
+    "notes pdf/stf/SFT Mole & Molarity calculations.pdf",
+    "README.md",
     "2024-04-18.md",
-    "coding learning/hallo.md",
+    "2024-04-17.md",
+    "coding/hallo.md",
     "Excalidraw/Drawing 2024-04-17 10.42.09.excalidraw.md",
     "Untitled.canvas",
-    "README.md",
     "Home.md",
     "Untitled 1.canvas",
-    "Excalidraw",
-    "Welcome.md",
-    "coding learning"
+    "Welcome.md"
   ]
 }
