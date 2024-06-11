@@ -13,5 +13,5 @@ short mode
 ## Done 
 ```tasks
 done
-short mode
+
 ```

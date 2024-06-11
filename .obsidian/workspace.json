@@ -4,31 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "cfb3267fff7a5295",
+        "id": "1cea17f35e4873de",
         "type": "tabs",
         "children": [
           {
-            "id": "dd4cb833f0e72bc7",
+            "id": "9db01c02826b3cca",
             "type": "leaf",
             "state": {
-              "type": "card-board-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "e9ef92cc3442da07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
+                "file": "notes pdf/papers/2020 AL Science for Technology Past Paper - English Medium.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 451.50418853759766
   },
   "right": {
     "id": "bb874d673b33b9ea",
@@ -103,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "notes pdf/papers/2020 AL Science for Technology Past Paper - English Medium.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "notes pdf/papers/2020 AL Science for Technology Past Paper - English Medium.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "notes pdf/papers/2020 AL Science for Technology Past Paper - English Medium.pdf"
               }
             }
           },
@@ -194,30 +182,31 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "e9ef92cc3442da07",
+  "active": "9db01c02826b3cca",
   "lastOpenFiles": [
+    "notes pdf/stf/sGr12TG  SFT.pdf",
+    "notes pdf/stf/latent heat of vapourization.pdf",
+    "notes pdf/stf/eGr12OM BioResoBook.pdf",
+    "notes pdf/stf/Work done , Energy and Power.pdf",
+    "notes pdf/stf/Thermal Expansion & Contraction.pdf",
+    "notes pdf/stf/The Effect of Flowing DC AC through Passive Devices Last edition version 1.pdf",
+    "notes pdf/stf/TRIGNOMETRY and IT'S APPLICATIONS.pdf",
+    "notes pdf/stf/THERMOCHEMISTRY.pdf",
+    "notes pdf/stf/Sft notes.pdf",
+    "notes pdf/stf/Science for Technology Term paper 2024 ALdocx.pdf",
+    "notes pdf/stf/Science for Technology - Subject Introduction.pdf",
     "Home.md",
-    "TO-DO LIST.md",
     "whiteborad.canvas",
+    "TO-DO LIST.md",
     "2024-04-17.md",
     "coding/okayyy.md",
     "1330715.png",
     "Dashboard a6d07e13d0b44b05be5e8db3a1aedfb8.md",
-    "Dashboard a6d07e13d0b44b05be5e8db3a1aedfb8/summery 65e9d328231e4340ab7a4dadc705dd6a/ICT ad7630efd7f346d3aa9d10246c6d91c5/To-Do 1de80a7c586142678c3eec7d1f264189_all.csv",
-    "Dashboard a6d07e13d0b44b05be5e8db3a1aedfb8/summery 65e9d328231e4340ab7a4dadc705dd6a/ICT ad7630efd7f346d3aa9d10246c6d91c5",
-    "Dashboard a6d07e13d0b44b05be5e8db3a1aedfb8/summery 65e9d328231e4340ab7a4dadc705dd6a_all.csv",
-    "Dashboard a6d07e13d0b44b05be5e8db3a1aedfb8/summery 65e9d328231e4340ab7a4dadc705dd6a.csv",
-    "Dashboard a6d07e13d0b44b05be5e8db3a1aedfb8/summery 65e9d328231e4340ab7a4dadc705dd6a",
     "Dashboard a6d07e13d0b44b05be5e8db3a1aedfb8/Untitled.png",
-    "Dashboard a6d07e13d0b44b05be5e8db3a1aedfb8/Untitled Database ac46fa2bac1742e4a84915feca6379ea.csv",
-    "Dashboard a6d07e13d0b44b05be5e8db3a1aedfb8/Untitled Database 78ce7f7a206046219eeb8fbe68b3842b.csv",
-    "Dashboard a6d07e13d0b44b05be5e8db3a1aedfb8",
     "TO-DO.md",
     "Tasks Plugin - Review and check your Statuses 2024-04-17 14-48-39.md",
-    "Spaces",
     "Spaces/Spaces.md",
     "Excalidraw/Drawing 2024-04-17 14.20.20.excalidraw.md",
-    "Excalidraw",
     "Tasks Plugin - Review and check your Statuses 2024-04-17 12-20-40.md",
     "//Untitled.canvas",
     "coding/hallo.md",
